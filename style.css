@@ -1,0 +1,9 @@
+body{
+    display: flex;
+}
+
+.logo-kenzieflix header, div, svg{
+    display: flex;
+    justify-content: center;
+
+}
